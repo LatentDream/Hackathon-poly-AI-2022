@@ -48,7 +48,7 @@ CNN model for image classification
 
 Second place !:)
 
-| Accuracy         | F1_score     | InRobustnessstock | Score  |
+| Accuracy         | F1_score     | Robustness        | Score  |
 |------------------|--------------|-------------------|--------|
 | 97.04 %          | 97.2 %       | 83.82 %	          | 90.02 %|
 
